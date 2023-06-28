@@ -1,1 +1,1 @@
-# jsStudy
+https://merrydozen.github.io/jsStudy/
